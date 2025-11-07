@@ -1,5 +1,0 @@
-{
-  "name": "Gerador de Arquivo TXT",
-  "description": "Uma aplicação simples para gerar e baixar um arquivo de texto com a palavra 'oi'.",
-  "requestFramePermissions": []
-}
